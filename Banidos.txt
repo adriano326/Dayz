@@ -1,3 +1,4 @@
-E0:D5:5E:E4:79:53
-MAC Address: 0A:E0:AF:F4:3A:6E
+MAC Andress: E0:D5:5E:E4:79:53
 Nickname: Honda
+MAC Address: 0A:E0:AF:F4:3A:6E
+Nickname: XNoNameX
