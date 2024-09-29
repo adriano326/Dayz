@@ -1,6 +1,3 @@
-MAC Andress: E0:D5:5E:E4:79:53
-Nickname: Honda
-MAC Address: 0A:E0:AF:F4:3A:6E
-Nickname: XNoNameX
-Processor ID: 178BFBFF00A20F12
-Nickname: @TUMADRE
+E0:D5:5E:E4:79:53
+0A:E0:AF:F4:3A:6E
+178BFBFF00A20F12
